@@ -85,3 +85,4 @@ as the script looks for the controller directly on start else the script will ju
 - No vibration / force feedback
 - The PS button is a separate button that you can map, for example in AntiMicroX
 - In the config.py file you can change the deadzone of each stick, the name of the controller and if you want to be able to use the (PS + Start) combo to disconnect the controller.
+- If you want your GNOME desktop enviornment to show the battery of the controller, use this extension (it will appear in the top bar): https://extensions.gnome.org/extension/1283/dual-shock-4-battery-percentage/
